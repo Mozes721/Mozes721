@@ -1,6 +1,4 @@
-<h3 align="center">[A passionate full stack from https://pl.pinterest.com/pin/38351034304863252/feedback/?invite_code=67202a6d3d55477a9e3960169ec6485c&sender_id=846888042336899789 India](https://tenor.com/view/coding-gif-18657810)</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mozes721" alt="mozes721" /></a> </p>
+<h3 align="center">Full-Stack dev same as 95% of our youth 🧑‍💻</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

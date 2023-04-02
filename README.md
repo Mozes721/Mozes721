@@ -1,5 +1,5 @@
 <h3 align="center">Full-Stack dev same as 95% of our youth 🧑‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://www.deviantart.com/quasilyte/art/Tired-gopher-783302842">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ricardstaujenis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ricardstaujenis" height="30" width="40" /></a>

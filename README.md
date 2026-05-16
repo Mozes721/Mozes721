@@ -2,8 +2,6 @@
 
 Full-stack developer building AI agents and intelligent systems. Currently shipping with Claude, Gemini, n8n, and embedded systems (Pico, Raspberry Pi).
 
-**[Portfolio](https://richard-taujenis.dev/)** • **[Blog](#)**
-
 ---
 
 ## 🛠️ What I Work With

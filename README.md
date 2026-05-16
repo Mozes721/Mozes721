@@ -30,7 +30,7 @@ Full-stack developer building AI agents and intelligent systems. Currently shipp
 
 - **Portfolio:** [richard-taujenis.dev](https://richard-taujenis.dev/)
 - **LinkedIn:** [linkedin.com/in/richard-taujenis](#)
-- **Email:** [your-email@example.com](#)
+- **Email:** [richard.taujenis@gmail.com](#)
 
 ---
 

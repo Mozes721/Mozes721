@@ -16,13 +16,6 @@ Full-stack developer building AI agents and intelligent systems. Currently shipp
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mozes721&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Mozes721)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Mozes721&layout=compact&theme=dark&hide_border=true)](https://github.com/Mozes721)
-
----
 
 ## 🚀 Current Focus
 
